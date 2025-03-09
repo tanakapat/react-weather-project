@@ -54,3 +54,7 @@
   line-height: 1px;
 }
 
+.Weather canvas {
+  margin: 10px auto;
+}
+
